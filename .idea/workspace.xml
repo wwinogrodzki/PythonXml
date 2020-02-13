@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d0ff69-6c74-4ed5-a0f5-eea76a1b03a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WHTMnuoma3OvaQBIggpAdw3JWC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Python.PythonXml">
+    <configuration name="Movies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonXml" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Movies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PythonXml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonXml" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonXml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PythonXml" />
+        <item itemvalue="Python.PythonXml" />
+        <item itemvalue="Python.PythonXml" />
+        <item itemvalue="Python.Movies" />
+        <item itemvalue="Python.Movies" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d0ff69-6c74-4ed5-a0f5-eea76a1b03a2" name="Default Changelist" comment="" />
+      <created>1578805474745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578805474745</updated>
+      <workItem from="1578805478915" duration="393000" />
+      <workItem from="1578805903236" duration="563000" />
+      <workItem from="1578806480820" duration="2392000" />
+      <workItem from="1578813785484" duration="6371000" />
+      <workItem from="1578887450009" duration="6723000" />
+      <workItem from="1579226735920" duration="12000" />
+      <workItem from="1580444515982" duration="27000" />
+      <workItem from="1580444562965" duration="439000" />
+      <workItem from="1580605067928" duration="861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="55" y="286" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1578805735052">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="55" y="286" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.23.1680.979@0.23.1680.979" timestamp="1578805735052" />
+    <state width="797" height="425" key="GridCell.Tab.0.bottom" timestamp="1578926177303">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1543" height="263" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1578813773709" />
+    <state width="797" height="425" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1578926177303" />
+    <state width="797" height="425" key="GridCell.Tab.0.center" timestamp="1578926177302">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1543" height="263" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1578813773709" />
+    <state width="797" height="425" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1578926177302" />
+    <state width="797" height="425" key="GridCell.Tab.0.left" timestamp="1578926177302">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1543" height="263" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1578813773708" />
+    <state width="797" height="425" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1578926177302" />
+    <state width="797" height="425" key="GridCell.Tab.0.right" timestamp="1578926177303">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1543" height="263" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1578813773709" />
+    <state width="797" height="425" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1578926177303" />
+    <state x="0" y="151" width="900" height="722" key="SettingsEditor" timestamp="1578890617963">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state x="0" y="151" width="900" height="722" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1578845202732" />
+    <state x="0" y="151" key="SettingsEditor/0.23.1680.978@0.23.1680.978" timestamp="1578890617963" />
+    <state x="0" y="151" key="SettingsEditor/0.23.1680.979@0.23.1680.979" timestamp="1578806461205" />
+    <state x="69" y="234" width="700" height="530" key="recent.locations.popup" timestamp="1578889777200">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="69" y="234" width="700" height="530" key="recent.locations.popup/0.23.1680.977@0.23.1680.977" timestamp="1578889777200" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonXml$PythonXml.coverage" NAME="PythonXml Coverage Results" MODIFIED="1578926156625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

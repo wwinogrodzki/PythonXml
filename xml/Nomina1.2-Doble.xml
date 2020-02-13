@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante
+  xsi:schemaLocation="http://www.sat.gob.mx/cfd/3
+  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/nomina12
+  http://www.sat.gob.mx/sitio_internet/cfd/nomina/nomina12.xsd"
+  Version="3.3"
+  Fecha="2017-12-15T01:52:40"
+  Sello="AfqqS4tTKtqWNoHCZlZ7ET2VXwPnfy2yn99zM5j0PV9fFfPAgsozz5bm2OVt7dwaR4eOZfoV5SBuDvK3iDR6dXVbhKJV4YCkTArSCGjDSEQqJ4paar3khIq6UEnN44XtGfg1RK5Zp7SRHy1z+LWArE1GYzd5VTl6MusgJwfGNeLHMttrDdD6vXiAHWUM1qzZYBAnOcfGHPlVzS8kmVNXDB/xWa6FvrFDiAqoyuTJhvlAtshomS0hxkho0yAmlTnvFziNHbhfAgAM6NrF92vHv0VcLsYHxlmNqj3DSHC/8c1Erx+Cg9RCvK1LQN3hd2XQ7WOdUI/VZCoSsU5Z4d/Ofw=="
+  FormaPago="99"
+  NoCertificado="30001000000300023708"
+  Certificado="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"
+  SubTotal="310.00"
+  Descuento="2.00"
+  Moneda="MXN"
+  TipoCambio="1"
+  Total="308.00"
+  TipoDeComprobante="N"
+  MetodoPago="PUE"
+  LugarExpedicion="03100"
+  Folio="9252"
+  xmlns:cfdi="http://www.sat.gob.mx/cfd/3"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:nomina12="http://www.sat.gob.mx/nomina12">
+  <cfdi:Emisor
+    Rfc="AAA010101AAA"
+    Nombre="INVESTIGACIONES Y ESTUDIOS SUPERIORES, S.C."
+    RegimenFiscal="601"/>
+  <cfdi:Receptor
+    Rfc="AAAA010101AAA"
+    Nombre="AGUILAR MONTERROSAS OSIRIS"
+    UsoCFDI="P01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto
+      ClaveProdServ="84111505"
+      Cantidad="1"
+      ClaveUnidad="ACT"
+      Descripcion="Pago de nómina"
+      ValorUnitario="310"
+      Importe="310"
+      Descuento="2"
+    
+    
+    
+    />
+  </cfdi:Conceptos>
+  <cfdi:Complemento>
+    
+    <nomina12:Nomina
+      FechaFinalPago="2017-11-15"
+      FechaInicialPago="2017-11-01"
+      FechaPago="2017-11-15"
+      NumDiasPagados="15"
+      TipoNomina="O"
+      TotalDeducciones="1"
+      TotalOtrosPagos="5"
+      TotalPercepciones="150"
+      Version="1.2"
+      >
+      <nomina12:Emisor
+        RegistroPatronal="L0124865101"
+        RfcPatronOrigen="AAA010101AAA">
+<!--        <nomina12:EntidadSNCF OrigenRecurso="IF"/>-->
+        
+        
+      </nomina12:Emisor>
+      <nomina12:Receptor
+        Antigüedad="P43W"
+        Banco="072"
+        ClaveEntFed="ROO"
+        CuentaBancaria="0000000000"
+        Curp="AUMO931130HVZGNS03"
+        Departamento="EL CLUB RITZ"
+        FechaInicioRelLaboral="2017-01-16"
+        NumEmpleado="2150"
+        NumSeguridadSocial="82119350237"
+        PeriodicidadPago="04"
+        Puesto="STEWARD"
+        RiesgoPuesto="2"
+        SalarioBaseCotApor="183.11"
+        SalarioDiarioIntegrado="156.43"
+        Sindicalizado="Sí"
+        TipoContrato="03"
+        TipoJornada="01"
+        TipoRegimen="03"/>
+      <nomina12:Percepciones
+        TotalExento="0"
+        TotalGravado="150"
+        TotalSueldos="150"
+        >
+        <nomina12:Percepcion
+          Clave="1010021"
+          Concepto="INCAPACIDAD"
+          ImporteExento="0"
+          ImporteGravado="50"
+          TipoPercepcion="014"/>
+        <nomina12:Percepcion
+          Clave="1010022"
+          Concepto="EXTRAS SIMPLES"
+          ImporteExento="0"
+          ImporteGravado="100"
+          TipoPercepcion="019">
+          <nomina12:HorasExtra
+            Dias="1"
+            HorasExtra="1"
+            ImportePagado="100"
+            TipoHoras="03"/>
+        </nomina12:Percepcion>
+      </nomina12:Percepciones>
+      <nomina12:Deducciones
+        TotalOtrasDeducciones="1"
+        
+        >
+        <nomina12:Deduccion
+          Clave="1030001"
+          Concepto="IMSS TRABAJADOR"
+          Importe="1"
+          TipoDeduccion="001"/>
+      </nomina12:Deducciones>
+      <nomina12:OtrosPagos>
+        <nomina12:OtroPago
+          Clave="1020001"
+          Concepto="ISR"
+          Importe="1"
+          TipoOtroPago="001"/>
+        <nomina12:OtroPago
+          Clave="1020003"
+          Concepto="VIATICOS"
+          Importe="1"
+          TipoOtroPago="003"/>
+        <nomina12:OtroPago
+          Clave="1020004"
+          Concepto="PAGOS DISTINTOS"
+          Importe="1"
+          TipoOtroPago="999"/>
+        <nomina12:OtroPago
+          Clave="1020002"
+          Concepto="SUBSIDIO"
+          Importe="1"
+          TipoOtroPago="003">
+          <nomina12:SubsidioAlEmpleo
+            SubsidioCausado="1"/>
+        </nomina12:OtroPago>
+        
+        <nomina12:OtroPago
+          Clave="1020002"
+          Concepto="SUBSIDIO"
+          Importe="1"
+          TipoOtroPago="004">
+          <nomina12:CompensacionSaldosAFavor Año="2016" RemanenteSalFav="0.00" SaldoAFavor="0.00"/>
+        </nomina12:OtroPago>
+        
+      </nomina12:OtrosPagos>
+      <nomina12:Incapacidades>
+        <nomina12:Incapacidad
+          DiasIncapacidad="1"
+          ImporteMonetario="50"
+          TipoIncapacidad="01"/>
+      </nomina12:Incapacidades>
+    </nomina12:Nomina>
+ 
+    <nomina12:Nomina
+      FechaFinalPago="2017-11-15"
+      FechaInicialPago="2017-11-01"
+      FechaPago="2017-11-15"
+      NumDiasPagados="15"
+      TipoNomina="O"
+      TotalDeducciones="1"
+      TotalOtrosPagos="5"
+      TotalPercepciones="150"
+      Version="1.2">
+      
+      
+      
+      <nomina12:Emisor
+        RegistroPatronal="L0124865101"
+        RfcPatronOrigen="AAA010101AAA"
+        
+      
+      />
+      <nomina12:Receptor
+        Antigüedad="P43W"
+        Banco="072"
+        ClaveEntFed="ROO"
+        CuentaBancaria="0000000000"
+        Curp="AUMO931130HVZGNS03"
+        Departamento="EL CLUB RITZ"
+        FechaInicioRelLaboral="2017-01-16"
+        NumEmpleado="2150"
+        NumSeguridadSocial="82119350237"
+        PeriodicidadPago="04"
+        Puesto="STEWARD                       "
+        RiesgoPuesto="2"
+        SalarioBaseCotApor="183.11"
+        SalarioDiarioIntegrado="156.43"
+        Sindicalizado="Sí"
+        TipoContrato="03"
+        TipoJornada="01"
+        TipoRegimen="03"/>
+      <nomina12:Percepciones
+        TotalExento="0"
+        TotalGravado="150"
+        TotalSueldos="150">
+        <nomina12:Percepcion
+          Clave="1010021"
+          Concepto="INCAPACIDAD"
+          ImporteExento="0"
+          ImporteGravado="50"
+          TipoPercepcion="014"/>
+        <nomina12:Percepcion
+          Clave="1010022"
+          Concepto="EXTRAS SIMPLES"
+          ImporteExento="0"
+          ImporteGravado="100"
+          TipoPercepcion="019">
+          <nomina12:HorasExtra
+            Dias="1"
+            HorasExtra="1"
+            ImportePagado="100"
+            TipoHoras="03"/>
+        </nomina12:Percepcion>
+      </nomina12:Percepciones>
+      <nomina12:Deducciones
+        TotalOtrasDeducciones="1"
+        
+        >
+        <nomina12:Deduccion
+          Clave="1030001"
+          Concepto="IMSS TRABAJADOR"
+          Importe="1"
+          TipoDeduccion="001"/>
+      </nomina12:Deducciones>
+      <nomina12:OtrosPagos>
+        <nomina12:OtroPago
+          Clave="1020001"
+          Concepto="ISR"
+          Importe="1"
+          TipoOtroPago="001"/>
+        <nomina12:OtroPago
+          Clave="1020003"
+          Concepto="VIATICOS"
+          Importe="1"
+          TipoOtroPago="003"/>
+        <nomina12:OtroPago
+          Clave="1020004"
+          Concepto="PAGOS DISTINTOS"
+          Importe="1"
+          TipoOtroPago="999"/>
+        <nomina12:OtroPago
+          Clave="1020002"
+          Concepto="SUBSIDIO"
+          Importe="1"
+          TipoOtroPago="001">
+          <nomina12:SubsidioAlEmpleo
+            SubsidioCausado="1"/>
+        </nomina12:OtroPago>
+        
+        <nomina12:OtroPago
+          Clave="1020002"
+          Concepto="SUBSIDIO"
+          Importe="1"
+          TipoOtroPago="004">
+          <nomina12:CompensacionSaldosAFavor Año="2016" RemanenteSalFav="0.00" SaldoAFavor="0.00"/>
+        </nomina12:OtroPago>
+        
+      </nomina12:OtrosPagos>
+      <nomina12:Incapacidades>
+        <nomina12:Incapacidad
+          DiasIncapacidad="1"
+          ImporteMonetario="50"
+          TipoIncapacidad="01"/>
+      </nomina12:Incapacidades>
+    </nomina12:Nomina>
+    
+  
+  </cfdi:Complemento>
+</cfdi:Comprobante>
